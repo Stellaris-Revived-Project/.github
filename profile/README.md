@@ -22,3 +22,11 @@ If you encounter a bug or have a suggestion, please open a GitHub Issue on the r
 - Discord: https://discord.gg/wY2EKWThSZ
 - Steam: https://steamcommunity.com/id/gregor_samsa_II/
 - Email: [maintainer@gregorsamsa.cc](mailto:maintainer@gregorsamsa.cc)
+
+
+---
+
+## Maintained Mods
+- [Vassal Contracts Unleashed](https://steamcommunity.com/sharedfiles/filedetails/?id=3768091191) by Darth Tiredlass
+- [Spark AI Rebellion](https://steamcommunity.com/sharedfiles/filedetails/?id=3771500484) by Saken
+- [Under Siege](https://steamcommunity.com/sharedfiles/filedetails/?id=3771629021) by Oatmeal Problem
