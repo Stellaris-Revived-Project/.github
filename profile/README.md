@@ -30,3 +30,4 @@ If you encounter a bug or have a suggestion, please open a GitHub Issue on the r
 - [Vassal Contracts Unleashed](https://steamcommunity.com/sharedfiles/filedetails/?id=3768091191) by Darth Tiredlass
 - [Spark AI Rebellion](https://steamcommunity.com/sharedfiles/filedetails/?id=3771500484) by Saken
 - [Under Siege](https://steamcommunity.com/sharedfiles/filedetails/?id=3771629021) by Oatmeal Problem
+- [Genocidal Empires Can Join The Galactic Community Revived](https://github.com/Stellaris-Revived-Project/Genocidal-Empires-Can-Join-The-Galactic-Community-Revived) by Me :)
