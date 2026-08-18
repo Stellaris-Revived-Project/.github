@@ -8,10 +8,7 @@ This project aims to preserve and keep abandoned community mods compatible with 
 
 ---
 
-## License
-
-All mods are provided under a **non-commercial permission license**. You are free to use, modify, copy, and redistribute this mod, including publishing modified or derivative versions, provided that no monetary gain is made from the mod or its derivatives.
-
+You are free to use, modify, copy, and redistribute this mod, including publishing modified or derivative versions, provided that the mod or its derivatives upholds the Paradox Interactive End-User License Agreement. 
 Please retain credit to the original creator and, where applicable, the current maintainer. This permission does not grant any rights to Stellaris, Paradox Interactive's assets, or other third-party content.
 
 ---
