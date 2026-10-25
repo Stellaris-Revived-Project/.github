@@ -8,7 +8,7 @@ This project aims to preserve and keep abandoned community mods compatible with 
 
 ---
 
-You are free to use, modify, copy, and redistribute this mod, including publishing modified or derivative versions, provided that the mod or its derivatives upholds the Paradox Interactive End-User License Agreement. 
+You are free to use, modify, copy, and redistribute any of these mods, including publishing modified or derivative versions, provided that the mod or its derivatives upholds the Paradox Interactive End-User License Agreement. 
 Please retain credit to the original creator and, where applicable, the current maintainer. This permission does not grant any rights to Stellaris, Paradox Interactive's assets, or other third-party content.
 
 ---
@@ -36,3 +36,4 @@ If you encounter a bug or have a suggestion, please open a GitHub Issue on the r
 - [Spark AI Rebellion](https://steamcommunity.com/sharedfiles/filedetails/?id=3771500484) by Saken
 - [Under Siege](https://steamcommunity.com/sharedfiles/filedetails/?id=3771629021) by Oatmeal Problem
 - [Genocidal Empires Can Join The Galactic Community Revived](https://github.com/Stellaris-Revived-Project/Genocidal-Empires-Can-Join-The-Galactic-Community-Revived) by Me :)
+- [All Tech Researchable](https://steamcommunity.com/sharedfiles/filedetails/?id=3785974159) by Rance Club
